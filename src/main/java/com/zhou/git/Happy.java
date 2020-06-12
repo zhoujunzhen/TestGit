@@ -6,5 +6,6 @@ public class Happy {
 		System.out.println("happy main right...");
 		System.out.println("happy main again...");
 		System.out.println("new branch hot_fix...");
+		System.out.println("now at the new branch hot_fix...");
 	}
 }
